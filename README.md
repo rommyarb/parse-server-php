@@ -1,3 +1,8 @@
-![Parse Server PHP](parse-server-logo-php.png)
-# parse-server-php
-Parse Server that runs on php environment
+<p align="center">
+    <img alt="Parse Server" src="parse-server-logo-php.png" width="500">
+  </a>
+</p>
+
+<p align="center">
+  Parse Server PHP, for you who cannot afford expensive Node.js cloud server 😅
+</p>
